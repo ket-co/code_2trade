@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/code_2trade" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="code_2trade" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code_2trade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code_2trade" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/code_2trade" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg" alt="code_2trade" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ketan-mhalsekar-ba4833262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ketan-mhalsekar-ba4833262" height="30" width="40" /></a>
 </p>
 
